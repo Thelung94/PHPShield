@@ -22,4 +22,5 @@ It uses session-based rate limiting and basic IP blocking — no external firewa
 1. Download or clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PHPShield.git
+   git clone https://github.com/Thelung94/PHPShield.git
+   copy folder PHPShield into htdoc or www
