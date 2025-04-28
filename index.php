@@ -1,5 +1,5 @@
 <?php
-require_once 'protect.php';
+require_once 'PHPShield.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
